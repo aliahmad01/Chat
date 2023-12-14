@@ -1,3 +1,3 @@
 # Chat
 
-warm-narwhal-fb982c.netlify.app
+https://warm-narwhal-fb982c.netlify.app/
